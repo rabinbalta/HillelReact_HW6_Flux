@@ -1,0 +1,13 @@
+.News{
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid grey;
+}
+.Topic{
+	margin: 15px;
+	padding: 5px;
+}
+.toggleNews{
+	color: blue;
+	margin: 5px;
+}
